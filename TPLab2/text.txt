@@ -1,0 +1,1 @@
+Using file and string streams, write a program that reads English text from a file and displays words that begin with vowels.

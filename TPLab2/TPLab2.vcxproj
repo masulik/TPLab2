@@ -176,7 +176,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="TPLab2.cpp" />
+    <ClCompile Include="AEROFLOT.cpp" />
+    <ClCompile Include="AeroflotArray.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="task2.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AEROFLOT.h" />
+    <ClInclude Include="AeroflotArray.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
